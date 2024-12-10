@@ -1,8 +1,4 @@
-# Proyeto_DS_II
-
-Aquí tienes un borrador para el README de tu proyecto:
-
-Análisis de Datos de Vinos de Argentina e Italia
+# Análisis de Datos de Vinos de Argentina e Italia
 📋 Descripción del Proyecto
 - Este proyecto de Data Science tiene como objetivo analizar un conjunto de datos sobre vinos de Argentina e Italia. La finalidad es responder preguntas clave relacionadas con las características, precios y puntuaciones de los vinos, identificando patrones que puedan ser útiles para la industria vitivinícola o para los amantes del vino.
 
