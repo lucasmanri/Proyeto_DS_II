@@ -19,7 +19,7 @@ Preguntas clave:
 - ¿Cuáles son las variedades de uva más populares en Argentina e Italia?
 - ¿Qué provincias producen los vinos mejor puntuados?
 - ¿Existe una relación entre el precio y la puntuación de los vinos?
- ¿Cómo se distribuyen los precios en ambas regiones?
+- ¿Cómo se distribuyen los precios en ambas regiones?
 
 Hipótesis a validar:
 
